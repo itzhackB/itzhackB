@@ -7,6 +7,6 @@ Curious, interested and willing to learn new technologies.
 
 
 - 📫 How to reach me:
--       yzikbynesai@gmail.com
--       Linkedin: https://www.linkedin.com/in/itzhack-bynesai-8a8759206/
-- 
+https://itzhack-b-portfolio.vercel.app/
+yzikbynesai@gmail.com
+Linkedin: https://www.linkedin.com/in/itzhack-bynesai-8a8759206/
